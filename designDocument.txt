@@ -12,9 +12,3 @@ User Flow Diagram:
 3.If valid, the application stores the details in the database,
   otherwise an error message is logged, and user is notified.
 4.User receives appropriate success or error messages.
-
-6. How-to Guide (Installation and Usage)
-6.1 Prerequisites
-Python installed
-PostgreSQL installed
-Pip installed
