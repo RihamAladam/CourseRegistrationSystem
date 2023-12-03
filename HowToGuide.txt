@@ -1,0 +1,18 @@
+## The Course Registration System How-to Guide ##
+
+Prerequisites:
+- Python (version 3.x)
+- PostgreSQL
+
+1. Set Up the Virtual Environment
+2. Install the required Python packages(pip install -r requirements.txt)
+3. Install PostgreSQL ( follow the instructions on the PostgreSQL official
+    website to download and install PostgreSQL on your system.)
+4. Open the config.py file( Update the DATABASE_URI variable with your
+   PostgreSQL connection details.)
+5. Run the application.
+
+Usage:
+- Open your web browser and navigate to http://127.0.0.1:5000/.
+- Fill out the registration form with the student details.
+  Click the "Register" button to submit the form.

@@ -1,0 +1,20 @@
+### Design document  ###
+
+Programming Language: Python
+
+Database: PostgreSQL
+
+Framework: Flask (for API development)
+
+User Flow Diagram:
+1.User provides student details through the API.
+2.Application processes and validates student details.
+3.If valid, the application stores the details in the database,
+  otherwise an error message is logged, and user is notified.
+4.User receives appropriate success or error messages.
+
+6. How-to Guide (Installation and Usage)
+6.1 Prerequisites
+Python installed
+PostgreSQL installed
+Pip installed
